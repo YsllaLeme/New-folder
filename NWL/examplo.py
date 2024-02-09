@@ -3,3 +3,5 @@ def my_func():
 
 def myFunc():
     print('Olá, Mundo!!')
+
+print("Olá, Mundo")
